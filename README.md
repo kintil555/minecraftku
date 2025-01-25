@@ -13,4 +13,6 @@
 - Ram 4 - 8
 - GPU support
 
-## 
+## installation
+- buka ZAchiver jika Di mobile
+- pilih filenya
