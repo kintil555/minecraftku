@@ -18,6 +18,7 @@
 ## installation
 -  [Klik sini](https://youtu.be/2RxBMnzJ26I?si=LUg3LfxnThLKpzAj)
 
+![alt text](https://github.com/kintil555/minecraftku/blob/main/Screenshot_2025-01-26-06-55-16-59_db51e592e420a9871f4a37915a68789b.jpg?raw=true)
 
 
 
