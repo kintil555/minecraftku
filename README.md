@@ -1,5 +1,5 @@
 # Addon Minecraft
-## tentang Minecraft dan link discord
+## Berbagi Addon
 
 [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Naereen/badges/master)
@@ -13,6 +13,27 @@
 - Ram 4 - 8
 - GPU support
 
+
+
 ## installation
-- buka ZAchiver jika Di mobile
-- pilih filenya
+-  [Klik sini](https://youtu.be/2RxBMnzJ26I?si=LUg3LfxnThLKpzAj)
+
+
+
+
+
+
+# Credit
+- [Master Lous Community](https://discord.gg/UCKNPYsq)
+
+
+
+
+
+# about
+
+Yang Mau Bergabung Komunitas Saya Bisa [Klik Aku](https://discord.gg/kVQE4KfS) dan jangan lupa Sapa 🙂‍↕️ 
+
+# Update?
+
+Satu Minggu Sekali Ya🤪
